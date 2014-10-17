@@ -10,3 +10,5 @@ jquery.pagination.js 的修改版,增加了一些参数,改变了回调处理方
 2:新增首页末页设置(`first_text`,`end_text`,`first_show_always`,`end_show_always`);
 
 3:修改`link_to`属性的`__id__`值与url一致(从1开始);
+
+使用方式可参考:[http://tutorials.ajaxmasters.com/pagination-demo/](http://tutorials.ajaxmasters.com/pagination-demo/)
