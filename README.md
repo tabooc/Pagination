@@ -10,7 +10,7 @@ $("#Pagination").pagination(total, options);
 ```
 
 | 参数名称    | 参数数据类型   |  默认值  |  是否必填  |  描述  |
-| --------   | -----:       | :----:  | :----:    | :----: |
+| --------   | -----:       | ----:  | ----:    | :----: |
 | total     | Number |     null   | true | 数据总量 |
 | options.items_per_page      |   Number   |   10  | false | 每页显示的条目数 |
 | options.num_display_entries  |  Number |  10  | false | 连续分页主体部分显示的分页条目数 |
