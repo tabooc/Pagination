@@ -7,7 +7,6 @@ $("#Pagination").pagination(total, options);
 ```
 
 参数说明：
-```
 
 | 参数名称    | 参数数据类型   |  默认值  |  是否必填  |  描述  |
 | --------   | -----:       | ----:  | ----:    | :----: |
@@ -28,5 +27,3 @@ $("#Pagination").pagination(total, options);
 | options.end_show_always | Boolean | true |  false | 是否显示"末页"分页按钮  |
 | options.trigger | Boolean | true | false | 是否触发回调 |
 | options.callback | Function | function | false | 回调方法;接受两个参数，新一页的id和pagination容器(一个DOM元素),如果回调函数返回false，则pagination事件停止执行 |
-
-```
